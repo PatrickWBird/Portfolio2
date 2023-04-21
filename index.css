@@ -1,0 +1,28 @@
+html{
+    background-image: url(wood-2049063_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+li {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    float: left;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+
+ul {
+    list-style-type: none;
+;
+}
+
+h1, h3{
+
+        text-align: center;
+
+}
+
