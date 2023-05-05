@@ -1,4 +1,4 @@
-html{
+body{
     background-image: url(wood-2049063_960_720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -6,12 +6,15 @@ html{
 
 
 li {
-    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     float: left;
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin-left: 5rem;
+    margin-right: 6rem;
+    background-color: yellow;
+    border-style: solid;
+    color: black;
+    
 
 }
 
@@ -26,3 +29,10 @@ h1, h3{
 
 }
 
+#pap{
+    background-color: aliceblue;
+    border-style: solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
