@@ -4,17 +4,20 @@ body{
     background-size: cover;
 }
 
+html{cursor: url('Untitledreal.png'), auto;
 
+}
 li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     float: left;
     margin-left: 5rem;
     margin-right: 6rem;
-    background-color: yellow;
+    background-color: gold;
     border-style: solid;
     color: black;
-    
+    border-radius: 10px;
+    cursor: url('Untitledreal.png');
 
 }
 
@@ -30,9 +33,36 @@ h1, h3{
 }
 
 #pap{
-    background-color: aliceblue;
+    background-color: lightyellow;
     border-style: solid;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 10px;
 }
+
+#Old{
+    margin-top: 2px;
+    background-color: bisque;
+    border-style: solid;
+    border-radius: 12px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#gry {
+    margin-top: 3px;
+    background-color: bisque;
+    border-style: solid;
+    border-radius: 4px;
+    margin-left: 250px;
+    margin-right: 350px;
+}
+#new {
+    margin-top: 1px;
+    background-color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 330px;
+    margin-right: 270px;
+}
+
+ 
