@@ -1,12 +1,14 @@
+/**/
 body{
     background-image: url(wood-2049063_960_720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/**/
 html{cursor: url('Untitledreal.png'), auto;
 
 }
+/*This Element modifies all li (list item) elemnts in my code.*/
 li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
@@ -20,18 +22,18 @@ li {
     cursor: url('Untitledreal.png');
 
 }
-
+/*This makes it so there is no list style.*/
 ul {
     list-style-type: none;
 ;
 }
-
+/*Simply aligning Headers with the center of the screen*/
 h1, h3{
 
         text-align: center;
 
 }
-
+/*Used to make paper like textboxes*/
 #pap{
     background-color: lightyellow;
     border-style: solid;
@@ -39,7 +41,7 @@ h1, h3{
     margin-right: 150px;
     margin-top: 10px;
 }
-
+/*Used to make paper like textboxes*/
 #Old{
     margin-top: 2px;
     background-color: bisque;
@@ -48,6 +50,8 @@ h1, h3{
     margin-left: 300px;
     margin-right: 300px;
 }
+/*Used to make paper like textboxes*/
+
 #gry {
     margin-top: 3px;
     background-color: bisque;
@@ -56,6 +60,7 @@ h1, h3{
     margin-left: 250px;
     margin-right: 350px;
 }
+/*Used to make paper like textboxes*/
 #new {
     margin-top: 1px;
     background-color: bisque;
